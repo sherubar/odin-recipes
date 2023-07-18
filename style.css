@@ -1,0 +1,79 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#f1c68e;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+    margin-left: 100px;
+}
+
+.hp-title {
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+}
+.logo-title {
+    margin-left: 515px;
+}
+
+.hp-recipes {
+    display: inline-block;
+}
+
+.gb-card,
+.alfredo-card,
+.brownie-card {
+    width: 400px;
+    height: 600px;
+    border: 3px black solid;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.gb-card {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+ 
+.img-hp {
+    width: 395.2px;
+    height: 390px;
+}
+
+.hhp {
+    background-color: white;
+}
+
+.php {
+    background-color: white;
+}
+
+.gb-em {
+    background-color: white;    
+}
+
+.button {
+    color: black;
+}
+
+.hhp,
+.php {
+    margin-left: 10px;
+}
+
+.alfredo-card {
+    width: 400px;
+    height: 600px;
+    margin-left: 560px;
+    margin-top: -620px;
+}
+
+.brownie-card {
+    margin-left: 1065px;
+    margin-top: -600px;
+    
+}
